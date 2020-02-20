@@ -9,3 +9,4 @@ for i in range(1,100):
     print("FizzBuzz",end=" ")
     continue
   print(i,end=" ")
+
